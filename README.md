@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://github.com/ABDULSAMADPK.png" width="140" height="140" style="border-radius:50%;" alt="Abdul Samad PK"/>
+<img src="https://raw.githubusercontent.com/ABDULSAMADPK/ABDULSAMADPK/main/profile.png" width="150" height="150" style="border-radius:50%;object-fit:cover;" alt="Abdul Samad PK"/>
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-ABDULSAMADPK-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABDULSAMADPK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsamadpk-ai/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=netlify&logoColor=white)](https://abdulsamadpk-portfolio1.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=netlify&logoColor=white)](https://abdulsamadpk-portfolio.netlify.app/#home)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulsamadpk9072@gmail.com)
 
 <br/>
@@ -182,7 +182,7 @@ Alongside my data science work, I bring hands-on experience as a **React & MERN 
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/ABDULSAMADPK/Portfolio)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-06B6D4?style=flat&logo=netlify&logoColor=white)](https://abdulsamadpk-portfolio1.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-06B6D4?style=flat&logo=netlify&logoColor=white)](https://abdulsamadpk-portfolio.netlify.app/#home)
 
 </td>
 </tr>
@@ -200,7 +200,7 @@ Alongside my data science work, I bring hands-on experience as a **React & MERN 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ABDULSAMADPK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ABDULSAMADPK&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULSAMADPK&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -273,7 +273,7 @@ Alongside my data science work, I bring hands-on experience as a **React & MERN 
 
 [![GitHub](https://img.shields.io/badge/GitHub-ABDULSAMADPK-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABDULSAMADPK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul_Samad_PK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsamadpk-ai/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdulsamadpk-06B6D4?style=for-the-badge&logo=netlify&logoColor=white)](https://abdulsamadpk-portfolio1.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdulsamadpk-06B6D4?style=for-the-badge&logo=netlify&logoColor=white)](https://abdulsamadpk-portfolio.netlify.app/#home)
 [![Email](https://img.shields.io/badge/Email-abdulsamadpk9072%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulsamadpk9072@gmail.com)
 
 </div>
